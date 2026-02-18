@@ -168,4 +168,11 @@ Payment gateway integration
 
 Database design and relational modeling
 
-Practical application of HCI principles
+## 📸 Screenshots
+
+### Admin Dashboard
+![Admin Dashboard](images/adash.png)
+
+### Teacher Dashboard
+![Teacher Dashboard](images/tead_d.png)
+
